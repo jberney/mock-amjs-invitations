@@ -1,0 +1,10 @@
+{
+  "name": "mock-amjs-invitations",
+  "version": "0.0.1",
+  "main": "src/server_factory.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-uuid": "^1.4.7"
+  }
+}
